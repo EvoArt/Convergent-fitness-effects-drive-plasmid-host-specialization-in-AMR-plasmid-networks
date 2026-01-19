@@ -9,6 +9,7 @@ All code and data for analysis of plasmid and bacteria densities and interaction
 ### fitness effects
 
 All code and data used in Figure 1 - effects of plasmids on host fitness.
+`plasmid effects.jl` uses plotting code contained in `plotting.jl`.
 
 ## Model code
 ### population-based model 
