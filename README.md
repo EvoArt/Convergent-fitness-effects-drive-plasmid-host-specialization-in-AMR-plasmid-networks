@@ -4,7 +4,8 @@
 
 ### main experiment analysis
 
-All code and data for analysis of plasmid and bacteria densities and interaction networks in the main experment.
+All code and data for analysis of plasmid and bacteria densities and interaction networks in the main experment - Figures 2-5.
+`velvet.csv` contains data from replica plating, focussing only on plasmid-containing treatments. `plating.csv` is data from standard agar plating, including plasmid-free microcosms.
 
 ### fitness effects
 
